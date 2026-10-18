@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Alex",
+        "subject": "Maths",
+        "score": "91",
+        "category": "excellent",
+        "status": "passed"
+    },
+    {
+        "name": "John",
+        "subject": "Physics",
+        "score": "47",
+        "category": "satisfactory",
+        "status": "passed"
+    },
+    {
+        "name": "Kate",
+        "subject": "Computer Science",
+        "score": "76",
+        "category": "good",
+        "status": "passed"
+    },
+    {
+        "name": "Max",
+        "subject": "Maths",
+        "score": "28",
+        "category": "poor",
+        "status": "failed"
+    },
+    {
+        "name": "Emma",
+        "subject": "Physics",
+        "score": "63",
+        "category": "good",
+        "status": "passed"
+    }
+]
