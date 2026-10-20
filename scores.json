@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Alim",
+        "subject": "Maths",
+        "score": "100"
+    },
+    {
+        "name": "John",
+        "subject": "Physics",
+        "score": "47"
+    },
+    {
+        "name": "Kate",
+        "subject": "Computer Science",
+        "score": "76"
+    },
+    {
+        "name": "Max",
+        "subject": "Maths",
+        "score": "28"
+    },
+    {
+        "name": "Emma",
+        "subject": "Physics",
+        "score": "63"
+    }
+]
